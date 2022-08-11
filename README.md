@@ -7,3 +7,6 @@ https://github.com/zuri-training/Team_21-Price-Compare/issues/4
 
 # Created Sign Up
 https://github.com/zuri-training/Team_21-Price-Compare/pull/63/commits/358802048e28632f025094474979a42712f13754
+
+# Created Review Page
+https://github.com/zuri-training/Team_21-Price-Compare/pull/69/commits/ec9880bcd373bfc0b6f187643af9c3e7d1b3965a
