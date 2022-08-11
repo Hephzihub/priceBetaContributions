@@ -13,3 +13,6 @@ https://github.com/zuri-training/Team_21-Price-Compare/pull/69/commits/ec9880bcd
 
 # Created Welcome Email Template
 https://github.com/zuri-training/Team_21-Price-Compare/pull/72/commits/958816349393d2e22cbe39a1d212a15c9e45f2c5
+
+# Created Forgot Password Email Template
+https://github.com/zuri-training/Team_21-Price-Compare/pull/73/commits/63e1a416d0a03158d96137382bf73112af9a79d7
