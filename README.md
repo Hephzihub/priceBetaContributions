@@ -19,3 +19,6 @@ https://github.com/zuri-training/Team_21-Price-Compare/pull/73/commits/63e1a416d
 
 ### Added some javascript to the category pages and refactored the category Tempalates
 https://github.com/zuri-training/Team_21-Price-Compare/pull/93/commits/32505ccd22a65a9198c912d3da0dc0b08dc1156b
+
+### Pulled user profile details from database
+https://github.com/zuri-training/Team_21-Price-Compare/pull/103/commits/86e3cf14d71d06894a7b46c237fc31e435a378c7
